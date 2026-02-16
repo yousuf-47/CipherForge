@@ -1,2 +1,4 @@
-tk
-pycryptodome
+customtkinter>=5.2.0
+pycryptodome>=3.20.0
+Pillow>=10.0.0
+pyinstaller>=6.0.0
